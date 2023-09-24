@@ -1,0 +1,16 @@
+<html>
+<head><title>History</title><head>
+<body background="bg11.jpg">
+<img src="jk.png" align=right vspace=60>
+<font size=10 color="white" face="times new roman">HISTORY</font><hr>
+
+The first pan-European tournament was the Challenge Cup, a competition between clubs in the Austro-Hungarian Empire. The Mitropa Cup, a competition modelled after 
+the Challenge Cup, was created in 1927, an idea of Austrian Hugo Meisl, and played between Central European clubs. In 1930, the Coupe des Nations 
+(French: Nations Cup), the first attempt to create a cup for national champion clubs of Europe, was played and organised by Swiss club Servette. Held in Geneva, 
+it brought together ten champions from across the continent. The tournament was won by Újpest of Hungary.Latin European nations came together to form the Latin Cup
+in 1949.<br>
+
+After receiving reports from his journalists over the highly successful Campeonato Sudamericano de Campeones of 1948, Gabriel Hanot, editor of L'Équipe, 
+began proposing the creation of a continent-wide tournament. After Stan Cullis declared Wolverhampton Wanderers "Champions of the World" following a successful 
+run of friendlies in the 1950s, in particular a 3–2 friendly victory against Budapest Honvéd, Hanot finally managed to convince UEFA to put into practice such a 
+tournament. It was conceived in Paris in 1955 as the European Champion Clubs' Cup.
